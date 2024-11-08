@@ -14,6 +14,5 @@ The theme does not include console icons. If you want to change the console icon
 - Menus and modules:
 
 ![MainUI_009](https://github.com/user-attachments/assets/7e584fb2-8326-422c-968d-7b9d9ca06a17)
-![MainUI_010](https://github.com/user-attachments/assets/d0524a9a-0ed4-437c-a255-a7e0563e37d0)
 
 

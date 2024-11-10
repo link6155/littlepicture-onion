@@ -7,6 +7,10 @@ The theme does not include console icons. If you want to change the console icon
 
 ![preview](https://github.com/user-attachments/assets/c3126073-5af4-4843-af1e-549aacc03235)
 
+- Homescreen Lite: 
+
+![MainUI_003](https://github.com/user-attachments/assets/5585db88-f5e8-4c78-99b9-dc3a75c0a878)
+
 - Charging:
 
 ![charging_preview](https://github.com/user-attachments/assets/33ee103c-59c2-4b5c-8a3d-987d5419c922)
